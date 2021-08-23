@@ -1,0 +1,5 @@
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1046\obj\Debug\net5.0\uri1046.csprojAssemblyReference.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1046\obj\Debug\net5.0\uri1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1046\obj\Debug\net5.0\uri1046.AssemblyInfoInputs.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1046\obj\Debug\net5.0\uri1046.AssemblyInfo.cs
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1046\obj\Debug\net5.0\uri1046.csproj.CoreCompileInputs.cache

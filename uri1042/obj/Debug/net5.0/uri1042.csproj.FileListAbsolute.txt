@@ -1,0 +1,16 @@
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\bin\Debug\net5.0\uri1042.exe
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\bin\Debug\net5.0\uri1042.deps.json
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\bin\Debug\net5.0\uri1042.runtimeconfig.json
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\bin\Debug\net5.0\uri1042.runtimeconfig.dev.json
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\bin\Debug\net5.0\uri1042.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\bin\Debug\net5.0\ref\uri1042.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\bin\Debug\net5.0\uri1042.pdb
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.csproj.AssemblyReference.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.AssemblyInfoInputs.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.AssemblyInfo.cs
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\ref\uri1042.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.pdb
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1042\obj\Debug\net5.0\uri1042.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\bin\Debug\net5.0\uri1079.exe
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\bin\Debug\net5.0\uri1079.deps.json
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\bin\Debug\net5.0\uri1079.runtimeconfig.json
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\bin\Debug\net5.0\uri1079.runtimeconfig.dev.json
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\bin\Debug\net5.0\uri1079.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\bin\Debug\net5.0\ref\uri1079.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\bin\Debug\net5.0\uri1079.pdb
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.csprojAssemblyReference.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.AssemblyInfoInputs.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.AssemblyInfo.cs
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\ref\uri1079.dll
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.pdb
+C:\Users\Samuel Paolo Martins\Documents\aula tecnico de informatica\uri1079\obj\Debug\net5.0\uri1079.genruntimeconfig.cache
